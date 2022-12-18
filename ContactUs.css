@@ -1,0 +1,22 @@
+body{
+  font-family: sans-serif;
+  background-color: #E9E3A4;
+  padding-top: 80px;
+  text-align: center;
+}
+p{
+  font-size: 14px;
+}
+h1{
+  font-size: 20px;
+}
+.one{
+  letter-spacing: .2em;
+  text-transform: uppercase;
+  padding: 1em 0.75em 0.75em;
+  border: 1px solid;
+}
+h2{
+  color: #ffffc8;
+  letter-spacing: .2em;
+}
